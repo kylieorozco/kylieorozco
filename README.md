@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kylieorozco
+- 👀 I’m interested in video games, pets, and web development
+- 🌱 I’m currently learning C++ in Unix/Linux environments
+- 😄 Pronouns: she/her
